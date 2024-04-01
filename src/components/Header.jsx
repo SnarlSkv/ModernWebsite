@@ -54,7 +54,7 @@ const Header = () => {
           <HamburgerMenu />
         </nav>
 
-        <a href="#singup" className="button hidden mr-8 text-b-1/50 transition-colors hover:text-n-1 lg:block">
+        <a href="#singup" className="button hidden mr-8 text-b-1/50 transition-colors hover:text-color-1 lg:block">
           New account
         </a>
         <Button className="hidden lg:flex" href="#login">
